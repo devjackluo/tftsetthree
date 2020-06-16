@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tftsetthree/static/css/main.39bd69d1.chunk.css",
+    "main.js": "/tftsetthree/static/js/main.9f613690.chunk.js",
+    "main.js.map": "/tftsetthree/static/js/main.9f613690.chunk.js.map",
+    "runtime-main.js": "/tftsetthree/static/js/runtime-main.2727c73a.js",
+    "runtime-main.js.map": "/tftsetthree/static/js/runtime-main.2727c73a.js.map",
+    "static/js/2.004138d9.chunk.js": "/tftsetthree/static/js/2.004138d9.chunk.js",
+    "static/js/2.004138d9.chunk.js.map": "/tftsetthree/static/js/2.004138d9.chunk.js.map",
+    "index.html": "/tftsetthree/index.html",
+    "precache-manifest.8ceca6ef4a91e183ba105a4d31d46897.js": "/tftsetthree/precache-manifest.8ceca6ef4a91e183ba105a4d31d46897.js",
+    "service-worker.js": "/tftsetthree/service-worker.js",
+    "static/css/main.39bd69d1.chunk.css.map": "/tftsetthree/static/css/main.39bd69d1.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2727c73a.js",
+    "static/js/2.004138d9.chunk.js",
+    "static/css/main.39bd69d1.chunk.css",
+    "static/js/main.9f613690.chunk.js"
+  ]
+}
